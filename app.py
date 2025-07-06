@@ -19,7 +19,7 @@ st.header("Clinician Details")
 
 col1, col2 = st.columns(2)
 with col1:
-    county = st.selectbox("County", ['Uasin Gishu', 'Kiambu', 'Kakamega', 'Elgeiyo Marakwet', 'Bungoma'])
+    county = st.selectbox("County", ['Uasin Gishu', 'Kiambu', 'Kakamega', 'Elgeiyo Marakwet', 'Bungoma','unknown'])
     health_level = st.selectbox("Health Level", ['Sub-county Hospitals and Nursing Homes',
        'National Referral Hospitals', 'Health centres',
        'Dispensaries and Private Clinics', 'Health Centres',
