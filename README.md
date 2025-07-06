@@ -14,6 +14,8 @@ The goal is to predict how a trained clinician would respond to each case, demon
 > 🔬 Expert clinicians and top models (GPT-4, LLAMA, GEMINI) were used to validate and benchmark the dataset.
 
 ---
+![Demo](demo.gif) 
+---
 
 ## 📁 Dataset
 
@@ -110,4 +112,3 @@ Replaced corrupted or misencoded characters with proper Unicode equivalents
 
 - Explore structured prompt engineering and self-verification mechanisms
 
-![Demo](Recording 2025-07-06 122521.gif)
