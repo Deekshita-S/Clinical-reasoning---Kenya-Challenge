@@ -110,4 +110,4 @@ Replaced corrupted or misencoded characters with proper Unicode equivalents
 
 - Explore structured prompt engineering and self-verification mechanisms
 
-![Demo](demo.gif)
+![Demo](Recording 2025-07-06 122521.gif)
