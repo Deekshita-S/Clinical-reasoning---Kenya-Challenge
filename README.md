@@ -109,3 +109,5 @@ Replaced corrupted or misencoded characters with proper Unicode equivalents
 - Fine-tune on larger and more diverse datasets
 
 - Explore structured prompt engineering and self-verification mechanisms
+
+![Demo](demo.gif)
